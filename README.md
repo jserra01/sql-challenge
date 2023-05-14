@@ -22,6 +22,7 @@ Thank you to:
 * [makereadme.com](https://www.makeareadme.com/) for README.md template
 * [commonmark.org](https://commonmark.org/help/) for instructions on Markdown
 * [geeksforgeeks.org](https://www.geeksforgeeks.org/how-to-add-images-on-readme-md-file-in-a-github-repository-from-the-local-system/) for instructions on adding an image to REAMDE.md
+* [QuickDBD](http://www.quickdatabasediagrams.com/) for app to draw database diagrams and convert to table schema
 * [Database.Guide](https://database.guide/how-to-format-numbers-as-currency-in-postgresql/#:~:text=To%20format%20a%20number%20as%20currency%20in%20Postgres%2C,Below%20are%20examples%20of%20each%20of%20these%20options.) for instructions on formatting as currency
 * [PostgreSQL.org](https://www.postgresql.org/docs/current/functions-datetime.html#FUNCTIONS-DATETIME-EXTRACT) for instructions on extracting year from data field
 
