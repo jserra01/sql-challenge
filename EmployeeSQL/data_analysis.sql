@@ -14,6 +14,7 @@ FROM employees
 WHERE EXTRACT(YEAR FROM hire_date) = 1986
 ;
 
+
 --3.  List manager of each department along with their department number, department name, 
 --employee number, last name, and first name.
 SELECT a.dept_no, b.dept_name, a.emp_no, c.last_name, c.first_name
@@ -50,6 +51,7 @@ INNER JOIN departments AS b ON a.dept_no = b.dept_no
 INNER JOIN employees AS c ON a.emp_no = c.emp_no
 WHERE b.dept_name = 'Sales'
 ;
+
 
 --7.  List each employee in the Sales and Development departments, including their 
 --employee number, last name, first name, and department name.
